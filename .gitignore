@@ -1,0 +1,20 @@
+# Compiled Lua sources
+luac.out
+
+# Neovim plugin compilation files
+.luarc.json
+lazy-lock.json
+
+# Plugin directory
+plugin/
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Log files
+*.log
+
+# Cache directories
+.cache/
